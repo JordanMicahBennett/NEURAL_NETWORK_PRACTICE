@@ -4,3 +4,5 @@ A sequence of projects, where I either practice writing neural networks from scr
 
 
 1. [Neural Network xOR; Written on August 08, 2018](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE_V0.1)
+
+2. [Matrix based Artificial Neural Network](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-MATRIX-VERSION/)
