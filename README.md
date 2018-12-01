@@ -6,3 +6,5 @@ A sequence of projects, where I practice writing artificial neural networks enti
 1. [Neural Network xOR; Written on August 08, 2018](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE_V0.1)
 
 2. [Matrix based Artificial Neural Network; Written From August 20, to August 26](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-MATRIX-VERSION/)
+
+3. [A live youtube session, where I write a basic neural network from scratch, in roughly 1 hour](https://github.com/JordanMicahBennett/BASIC-ARTIFICIAL-NEURAL-NETWORK_FROM-LIVE-JAVA-SESSION)
