@@ -2,7 +2,7 @@
 
 A sequence of projects, where I practice writing artificial neural networks entirely from scratch. I apply a type of spaced repition learning, I write these models over and over again, each time acquiring new insight. 
 
-* Practicing how to write basic neural networks is one of the ways experts in the Ai field gained intuition to build even more complicated models. (As I described [on the Live ITS 2019 Tutorial, held at UWI recently](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code))
+* Practicing how to write basic neural networks is one of the ways experts in the Ai field gained intuition to build even more complicated models, such as [models used to build self driving cars](https://www.youtube.com/watch?v=WBkgs4u5tW0). (As I described [on the Live ITS 2019 Tutorial, held at UWI recently](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code))
 
 * Even if one doesn't go on to build complicated models from scratch, one with basic practice of writing fundamental neural networks, can still gain intuition to use libraries like tensorflow which abstract years of pHD work away, leaving non PhD programmers ease of use of powerful ai models.
 
