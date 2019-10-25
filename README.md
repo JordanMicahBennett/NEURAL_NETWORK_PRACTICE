@@ -4,7 +4,7 @@ A sequence of projects, where I practice writing artificial neural networks enti
 
 * Practicing how to write basic neural networks is one of the ways experts in the Ai field gained intuition to build even more complicated models. 
 
-* Even if one doesn't go on to build complicated models, one with basic practice of writing fundamental neural networks, can still gain intuition to use libraries like tensorflow which abstract years of pHD work away. 
+* Even if one doesn't go on to build complicated models, one with basic practice of writing fundamental neural networks, can still gain intuition to use libraries like tensorflow which abstract years of pHD work away, leaving non PhD programmers ease of use of powerful ai models.
 
 * This is one of the big benefits of modern machine learning.
 
