@@ -16,3 +16,5 @@ A sequence of projects, where I practice writing artificial neural networks enti
 3. [A live youtube session, where I write a basic neural network from scratch, in roughly 1 hour; December 4, 2018](https://github.com/JordanMicahBennett/BASIC-ARTIFICIAL-NEURAL-NETWORK_FROM-LIVE-JAVA-SESSION)
 
 4. [Neural Network xOR; Written on September 12, 2019](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-V2)
+
+5. [Neural Network xOR; Written on January 27, 2020](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-JAN_2020/)
