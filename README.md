@@ -18,3 +18,5 @@ A sequence of projects, where I practice writing artificial neural networks enti
 4. [Neural Network xOR; Written on September 12, 2019](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-V2)
 
 5. [Neural Network xOR; Written on January 27, 2020](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-JAN_2020/)
+
+6. [Neural Network xOR; Written on June 4, 2020](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-JUNE_2020)
