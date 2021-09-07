@@ -24,3 +24,4 @@ A sequence of projects, where I practice writing artificial neural networks enti
 7. [Live-Agile-Artificial-Neural-Network-Programming-Sessions; Written on December 18, 2020](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions)
 
 8. [Neural Network xOR; Written on March 21, 2021](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-MARCH_21_2021)
+9. [Neural Network xOR; Written on September 7, 2021](https://github.com/g0dEngineer/NEURAL_NETWORK_PRACTICE_2021_SEPTEMBER)
