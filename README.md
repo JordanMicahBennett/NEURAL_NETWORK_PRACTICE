@@ -28,4 +28,5 @@ A sequence of projects, where I practice writing artificial neural networks enti
 10. [Universal Ai Diploma, Neural Network Written December 10, 2021](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/README.md#sessions-2021-universal-ai-diploma)
 11. [Neural Network xOR; Written on March 15, 2023](https://github.com/g0dEngineer/NEURAL_NETWORK_PRACTICE_2023_MARCH_15) 
 12. [Neural Network xOR; Written on February, 2024](https://github.com/g0dEngineer/NEURAL_NETWORK_NIGHT_PRACTICE_FEB_2024/)
+13. [Neural Network xOR; Written January 5, 2026](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_WRITTEN_FROM_SCRATCH_PRACTICE_JAN_2026/tree/main?tab=readme-ov-file)
 
